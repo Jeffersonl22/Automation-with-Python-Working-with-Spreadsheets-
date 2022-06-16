@@ -32,3 +32,4 @@ for product_row in range(2, product_list.max_row + 1):
     inventory_price.value = inventory * price
     
 print(products_per_supplier)
+print(total_value_per_supplier)
