@@ -3,7 +3,7 @@
 This is a program that works with Spreadsheets by using the Openpyxl library.
 
 
-## Openpyxl 
+## Openpyxl - A python library
 
 Openpyxl is a Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files.
 
