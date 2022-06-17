@@ -10,8 +10,8 @@ Openpyxl is a Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files.
 
 ## The program can:
 - List each company with respective product count
-- List products with inventory less than 10
 - List each company with respective total inventory value
+- List products with inventory less than 10
 - Calculate and write inventory value for each product into Spreadsheet
 
 ## The Inventory
@@ -30,6 +30,7 @@ You need to install Python and the Openpyxl library. If you want, you can also i
  - [Click here to Install Pycharm](https://www.jetbrains.com/pycharm/download/)
 
 ## Results
+Here you can see the results for the list of each company with respective product count, each company with respective total inventory value and products with inventory less than 10
 
 <div align="center">
 <img src="https://github.com/Jeffersonl22/Automation-with-Python-Working-with-Spreadsheets-/blob/main/Screenshots/Screen2.PNG" width="1000px"/>
