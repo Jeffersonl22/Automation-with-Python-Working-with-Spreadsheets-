@@ -24,7 +24,7 @@ The full inventory is available in the .xlsx files
 
 ## How you can execute
 
-You need to install Python and the Openpyxl library. If you want, you can install a Python IDE (like PyCharm) or you can only use the python terminal.
+You need to install Python and the Openpyxl library. If you want, you can also install a Python IDE (like PyCharm) or you can only use the python terminal.
  - [Click here to Install Python](https://www.python.org/downloads/)
  - [Click here to Install the Openpyxl library](https://pypi.org/project/openpyxl/)
  - [Click here to Install Pycharm](https://www.jetbrains.com/pycharm/download/)
