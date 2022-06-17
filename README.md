@@ -10,7 +10,7 @@ Openpyxl is a Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files.
 
 ## The program can:
 - Make a list of each company with respective product count
-- Make a list each company with respective total inventory value
+- Make a list of each company with respective total inventory value
 - Make a list of the products with inventory less than 10
 - Calculate and write inventory value for each product into Spreadsheet
 
@@ -24,7 +24,7 @@ The full inventory is available in the .xlsx files
 
 ## How you can execute
 
-You need to install Python and the Openpyxl library. If you want, you can also install a Python IDE (like PyCharm) or you can only use the python terminal.
+You will need to install Python and the Openpyxl library. If you want, you can also install a Python IDE (like PyCharm) or you can only use the python terminal.
  - [Click here to Install Python](https://www.python.org/downloads/)
  - [Click here to Install the Openpyxl library](https://pypi.org/project/openpyxl/)
  - [Click here to Install Pycharm](https://www.jetbrains.com/pycharm/download/)
