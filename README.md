@@ -40,6 +40,6 @@ Here you can see the results for the list of each company with respective produc
 Here you can see the value for each product in the new Spreadsheet
 
 <div align="center">
-<img src="https://github.com/Jeffersonl22/Automation-with-Python-Working-with-Spreadsheets-/blob/main/Screenshots/Screen3.PNG" width="1000px"/>
+<img src="https://github.com/Jeffersonl22/Automation-with-Python-Working-with-Spreadsheets-/blob/main/Screenshots/Screen3.png" width="1000px"/>
 </div>
 
