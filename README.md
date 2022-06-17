@@ -35,3 +35,11 @@ Here you can see the results for the list of each company with respective produc
 <div align="center">
 <img src="https://github.com/Jeffersonl22/Automation-with-Python-Working-with-Spreadsheets-/blob/main/Screenshots/Screen2.PNG" width="1000px"/>
 </div>
+
+## New .xlsx file generated with Python
+Here you can see the value for each product in the new Spreadsheet
+
+<div align="center">
+<img src="https://github.com/Jeffersonl22/Automation-with-Python-Working-with-Spreadsheets-/blob/main/Screenshots/Screen3.PNG" width="1000px"/>
+</div>
+
