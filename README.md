@@ -19,7 +19,7 @@ Openpyxl is a Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files.
 The full inventory is available in the .xlsx files
 
 <div align="center">
-<img src="https://github.com/Jeffersonl22/Automation-with-Python-Working-with-Spreadsheets-/blob/main/Screenshots/Screen1.PNG" width="1000px"/>
+<img src="https://github.com/Jeffersonl22/Automation-with-Python-Working-with-Spreadsheets-/blob/main/Screenshots/Screen1.PNG" width="1200px"/>
 </div>
 
 ## How you can execute
